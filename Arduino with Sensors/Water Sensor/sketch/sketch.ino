@@ -41,7 +41,6 @@ void loop()
   
   Serial.print("\nWater level: ");
   Serial.print(mmWater);
-  Serial.print(" mm");
   
   delay(1000);
 }
